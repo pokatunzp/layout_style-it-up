@@ -1,0 +1,33 @@
+body {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+}
+
+#header {
+  background: blue;
+}
+
+#footer {
+  background: black;
+}
+
+div {
+  height: 100px;
+}
+
+.important {
+  background: red;
+}
+
+.interesting {
+  background: green;
+}
+
+.surprising {
+  background: orange;
+}
+
+div:hover {
+  height: 200px;
+}
