@@ -1,7 +1,5 @@
 body {
-  display: block;
-  margin: 0 auto;
-  width: 300px;
+  margin: 0;
 }
 
 #header {
@@ -14,6 +12,9 @@ body {
 
 div {
   height: 100px;
+  width: 300px;
+  display: block;
+  margin: 0 auto;
 }
 
 .important {
